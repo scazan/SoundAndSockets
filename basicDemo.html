@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+
+	<style type="text/css">
+		div {
+			position: absolute;
+			top: 0;
+			left: 0;
+
+			width: 50px;
+			height: 50px;
+
+			background-color: #00f;
+		}
+
+	</style>
+
+	<script>
+	  var socket = io.connect('http://localhost');
+	  var position = {top: 0, left: 0};
+
+	  $(document).ready(function() {
+	  	$('#counter').draggable({
+	  		drag: function(event, ui) {
+	  				var uiPosition = ui.position;
+
+	  		    	position.top = uiPosition.top;
+	  		    	position.left = uiPosition.left;
+
+	  		    	console.debug(position);
+	  		    	socket.emit('changePosition', {position: position});
+	  		    }
+	  		});
+
+	    socket.on('changePosition', function(data) {
+
+	    	console.debug(data);
+	    	position = data;
+	    	$('#counter').offset(position);
+	    });
+	  });
+
+	</script>
+	
+
+</head>
+<body>
+	<div id="counter"> </div>
+</body>
+</html>

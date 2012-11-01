@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"effe",
+				"effectNamesLength"
+			],
+			[
+				"effec",
+				"effectNames"
+			],
+			[
+				"m",
+				"masterFader"
+			],
+			[
+				"creat",
+				"createGainNode"
+			],
+			[
+				"rever",
+				"reverbGainNode"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"c",
+				"cue"
+			],
+			[
+				"gainNo",
+				"gainNodesLength"
+			],
+			[
+				"source",
+				"sourceFiles"
+			],
+			[
+				"gain",
+				"gainNode"
+			],
+			[
+				"passed",
+				"passedBufferArray"
+			],
+			[
+				"buffer",
+				"bufferArray"
+			],
+			[
+				"get",
+				"getNewMasterFader"
+			],
+			[
+				"v",
+				"volume"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"object",
+				"objectInstance"
+			],
+			[
+				"objec",
+				"objectInstance"
+			],
+			[
+				"buffe",
+				"bufferPaths"
+			],
+			[
+				"lo",
+				"loadSoundBuffers"
+			],
+			[
+				"seq",
+				"Sequencer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"audiofile/"
+			],
+			[
+				"A",
+				"Audiolet.min.js"
+			],
+			[
+				"Audio",
+				"AudioFilePlayer"
+			],
+			[
+				"sequen",
+				"sequencers"
+			],
+			[
+				"se",
+				"sequencer"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"playFun",
+				"playFunc"
+			],
+			[
+				"stopF",
+				"stopFunction"
+			],
+			[
+				"playF",
+				"playFunction"
+			],
+			[
+				"convol",
+				"convolveBuffer"
+			],
+			[
+				"sound",
+				"soundCanvas"
+			],
+			[
+				"bi",
+				"biQuad"
+			],
+			[
+				"cg",
+				"changeConvolverVolume"
+			],
+			[
+				"gainNode",
+				"gainNodeConvolver"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"change",
+				"changeSpeed"
+			],
+			[
+				"jqu",
+				"jquery-ui"
+			],
+			[
+				"st",
+				"stylesheet	@=stylesheet"
+			],
+			[
+				"offse",
+				"offsetL"
+			],
+			[
+				"Sound",
+				"SoundPlayer"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"s",
+				"soldering.jpg"
+			],
+			[
+				"background-po",
+				"background-position-y"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"n",
+				"nav"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"o",
+				"offsetY"
+			],
+			[
+				"offset",
+				"offsetX"
+			],
+			[
+				"sa",
+				"startTime"
+			],
+			[
+				"list",
+				"list	list-style-type: asian"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"number",
+				"numberB"
+			],
+			[
+				"audio",
+				"audioElement1"
+			],
+			[
+				"au",
+				"audioElement3"
+			],
+			[
+				"audi",
+				"audioElement2"
+			],
+			[
+				"aud",
+				"audioElements"
+			],
+			[
+				"mappn",
+				"mappingsDropIndex"
+			],
+			[
+				"send",
+				"sendToSC"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 3856,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/AudioStage.js",
+			"settings":
+			{
+				"buffer_size": 2844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/BufferLoader.js",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/SoundPlayer.js",
+			"settings":
+			{
+				"buffer_size": 7812,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requirements.txt",
+			"settings":
+			{
+				"buffer_size": 1454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Demo.html",
+			"settings":
+			{
+				"buffer_size": 1994,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"fet	",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack	in	",
+				"Package Control: Install Package"
+			],
+			[
+				"Sni	pro",
+				"Snippet: Prototype"
+			],
+			[
+				"Snippet: if",
+				"Snippet: if"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/scott/Sites/GameAudioLib/index.html",
+		"/Users/scott/Sites/GameAudioLib/indexBAK.html",
+		"/Users/scott/Sites/GameAudioLib/js/BufferLoader.js",
+		"/Users/scott/Sites/AudioFun/js/Sequencer.js",
+		"/Users/scott/Sites/AudioFun/css/style.css",
+		"/Users/scott/Sites/AudioFun/js/BufferLoader.js",
+		"/Users/scott/Sites/AudioFun/js/main.js",
+		"/Users/scott/Sites/AudioFun/js/main-audioLib.js",
+		"/Users/scott/Downloads/jussi-kalliokoski-audiolib.js-a71a7de/tests/drum-sampler.html",
+		"/Users/scott/Downloads/jussi-kalliokoski-audiolib.js-a71a7de/tests/sampler.html",
+		"/Users/scott/Downloads/jussi-kalliokoski-audiolib.js-a71a7de/tests/samples/drum-samples.js",
+		"/Users/scott/Sites/AudioFun/js/SoundPlayer-audioLib.js",
+		"/Users/scott/Sites/AudioFun/js/SoundPlayer.js",
+		"/Users/scott/Downloads/MM1150-Wk7-javascript For-Loop example.html",
+		"/Users/scott/Sites/AudioFun/js/main-bak.js",
+		"/Users/scott/Sites/CPC/index.html",
+		"/Users/scott/Sites/CPC/js/main.js",
+		"/Users/scott/Sites/CPC/css/style.css",
+		"/Users/scott/Sites/CPC/js/plugins.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/class 2/js/prep/index.html",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/class 2/js/prep/classTwo.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/class 2/js/prep/classTwoJQuery.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/class 2/js/classOne.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/classOne.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/class 2/js/clasTwoJQuery.js",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/index.html",
+		"/Users/scott/Documents/AI/Summer2012/Javascript/clasTwoJQuery.js",
+		"/Users/scott/Sites/isometric/index.html",
+		"/Users/scott/Sites/isometric/game.js",
+		"/Users/scott/Sites/isometric/grid.html",
+		"/Users/scott/Sites/isometric/canvasTest.css",
+		"/Users/scott/Sites/isometric/pixelColor.html",
+		"/Users/scott/Sites/isometric/spriteSheet.html",
+		"/Users/scott/Sites/isometric/sprite.js",
+		"/Users/scott/Desktop/pythonweb/BlobTrackingMapping/mapping.html",
+		"/Users/scott/Desktop/pythonweb/BlobTrackingMapping/css/styles.css",
+		"/Users/scott/Desktop/pythonweb/BlobTrackingMapping/js/classTest.js",
+		"/Users/scott/Desktop/pythonweb/BlobTrackingMapping/js/mapping.js",
+		"/Users/scott/Desktop/pythonweb/BlobTrackingMapping/mapping.appcache",
+		"/Users/scott/Desktop/pythonweb/webserver.py",
+		"/Users/scott/Sites/canvas/three/index.html",
+		"/Users/scott/Downloads/phonegap-phonegap-de1960d/README.md",
+		"/Users/scott/Desktop/wyatt/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"active",
+			"referenceToSelf",
+			"buffer",
+			"passedBuffer",
+			"passedBuffer	",
+			"masterFader",
+			"createConvolver",
+			"console",
+			"console.debug",
+			"soundIndex",
+			"console.debug",
+			"fileIndex",
+			"source",
+			"console",
+			"console.debug",
+			"$",
+			"mouseX",
+			"referenceToThis",
+			"changeVolume",
+			"100%",
+			"li",
+			"center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bindingFunction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 3856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1464,
+								1464
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/AudioStage.js",
+					"settings":
+					{
+						"buffer_size": 2844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1426,
+								1426
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/BufferLoader.js",
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/SoundPlayer.js",
+					"settings":
+					{
+						"buffer_size": 7812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2291,
+								2291
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "requirements.txt",
+					"settings":
+					{
+						"buffer_size": 1454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Demo.html",
+					"settings":
+					{
+						"buffer_size": 1994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
